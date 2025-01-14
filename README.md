@@ -23,20 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fazer uma imagem que represente o curso
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Llama 3.2
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Enviei para ia os pronts da imagem como gostaria que fosse a representação do aprendizado de novas teclogias por meio de IA. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/96a2937b-51b0-4766-b41a-4e1877815bb4)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Sinto que as Ia's ainda precisam evoluir muito, pois muitas solicitações são limitadas e não são integradas entre elas, tenho dificuldade de conseguir acesso as IA's pelo fato da maioria ser paga, e outra dificuldade é fazer entender exatamente o que eu quero, principlamente na edição de imagens.
 
 ### Exemplos e Insigths
 
